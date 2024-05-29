@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cairo, sans-serif;
+
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+h1{
+    font-size: 46px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: #dbc530;
+}

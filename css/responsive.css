@@ -1,0 +1,88 @@
+@media (max-width: 766px){
+    /* navbar styles */
+    .menu{
+        height: 120px;
+        display: block;
+        text-align: center;
+        transition-duration: .4s;
+    }
+    .logo{
+        border-bottom: 1px solid #0b133d;
+        transition-duration: .4s;
+    }
+    .nav-menu{
+        justify-content: center;
+        
+    }
+    .menu-item{
+        padding: 16.5px;
+        width: calc(100%/5);
+        transition-duration: .4s;
+    }
+    /* about us styles */
+    .about{
+        width: 90%;
+        height: 375px;
+        transition-duration: .4s;
+    }
+    .about h1{
+        font-size: 30px;
+        transition-duration: .4s;
+    }
+    .about-p{
+        margin-top: 10px;
+        font-size: 17px;
+        transition-duration: .4s;
+    }
+    /* tutorials */
+    .tutorials{
+        padding: 0px;
+        
+    }
+    .tutorials h1{
+        font-size: 35px;
+        transition-duration: .4s;
+    }
+    .row{
+        margin: 50px 50px;
+        display: block;
+        transition-duration: .4s;
+    }
+    .col-4{
+        margin-bottom: 10px;
+        padding: 15px 15px;
+        transition-duration: .4s;
+    }
+    .col-4 img{
+        width: 75%;
+        transition-duration: .4s;
+    }
+    .tutorials-header{
+        font-size: 35px;
+        margin-bottom: 15px;
+        transition-duration: .4s;
+    }
+    .tutorials-footer{
+        font-size: 15px;
+        font-weight: 700;
+        transition-duration: .4s;
+    }
+    /* contact */
+    .contact{
+        height: 1075px;
+        transition-duration: .4s;
+    }
+    .row{
+        display: block;
+        transition-duration: .4s;
+    }
+    .col-2{
+        width: 100%;
+        margin-bottom: 10px;
+        transition-duration: .4s;
+    }
+    .col-2 iframe{
+        width: 100%;
+        transition-duration: .4s;
+    }
+}

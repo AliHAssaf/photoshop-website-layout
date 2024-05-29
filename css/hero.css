@@ -1,0 +1,6 @@
+/* hero styles */
+.hero{
+    height: 350px;
+    background: #0b133d url(../img/hero.jpg) no-repeat center -400px;
+    margin-bottom: 50px;
+}
